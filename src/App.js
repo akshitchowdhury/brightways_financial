@@ -16,6 +16,7 @@ import Complaint2 from "./Components/Complaint2";
 function App() {
   return (
     <>
+    <div style={{overflow: "clip"}}>
       <BrowserRouter>
         <Routes>
           <Route
@@ -111,6 +112,7 @@ function App() {
           />
         </Routes>
       </BrowserRouter>
+      </div>
     </>
   );
 }
