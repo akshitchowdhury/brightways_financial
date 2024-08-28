@@ -7,67 +7,7 @@ const Complaint2 = () => {
     <div>
       <div>
       <div class="elementor-widget container mt-5">
-        <div className="heade-d">
-          <h5 style={{ textAlign: "center", paddingBottom: "10px" }}>
-            Data For the Month ending: JUNE,2024
-          </h5>
-        </div>
-        <Table striped bordered hover>
-          <thead style={{ textAlign: "center" }}>
-            <tr>
-              <th>sr no</th>
-              <th>Received From</th>
-              <th>Pending at the end of Last Month</th>
-              <th>Received</th>
-              <th>Resolved</th>
-              <th>Total Pending</th>
-              <th>Pending Complaint &#x276F; 3 Months</th>
-              <th>Average Resolution Time in Days</th>
-            </tr>
-          </thead>
-          <tbody style={{ textAlign: "center" }}>
-            <tr>
-              <td>1</td>
-              <td>Directly from Investors</td>
-              <td>0</td>
-              <td>0</td>
-              <td>0</td>
-              <td>0</td>
-              <td>0</td>
-              <td>0</td>
-            </tr>
-            <tr>
-              <td>2</td>
-              <td>SEBI (SCORES)</td>
-              <td>0</td>
-              <td>0</td>
-              <td>0</td>
-              <td>0</td>
-              <td>0</td>
-              <td>0</td>
-            </tr>
-            <tr>
-              <td>3</td>
-              <td>Other Sources (If Any)</td>
-              <td>0</td>
-              <td>0</td>
-              <td>0</td>
-              <td>0</td>
-              <td>0</td>
-              <td>0</td>
-            </tr>
-            <tr>
-              <td></td>
-              <td>Grand Total</td>
-              <td>0</td>
-              <td>0</td>
-              <td>0</td>
-              <td>0</td>
-              <td>0</td>
-              <td>0</td>
-            </tr>
-          </tbody>
-        </Table>
+        
         <div className="heade-d">
           <h5 style={{ textAlign: "center", paddingBottom: "10px" }}>
             Data For the Month ending: JULY,2024
@@ -130,7 +70,67 @@ const Complaint2 = () => {
           </tbody>
         </Table>
 
-
+        <div className="heade-d">
+          <h5 style={{ textAlign: "center", paddingBottom: "10px" }}>
+            Data For the Month ending: JUNE,2024
+          </h5>
+        </div>
+        <Table striped bordered hover>
+          <thead style={{ textAlign: "center" }}>
+            <tr>
+              <th>sr no</th>
+              <th>Received From</th>
+              <th>Pending at the end of Last Month</th>
+              <th>Received</th>
+              <th>Resolved</th>
+              <th>Total Pending</th>
+              <th>Pending Complaint &#x276F; 3 Months</th>
+              <th>Average Resolution Time in Days</th>
+            </tr>
+          </thead>
+          <tbody style={{ textAlign: "center" }}>
+            <tr>
+              <td>1</td>
+              <td>Directly from Investors</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+            </tr>
+            <tr>
+              <td>2</td>
+              <td>SEBI (SCORES)</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+            </tr>
+            <tr>
+              <td>3</td>
+              <td>Other Sources (If Any)</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+            </tr>
+            <tr>
+              <td></td>
+              <td>Grand Total</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+            </tr>
+          </tbody>
+        </Table>
 
         <div className="container heade-d mt-3">
           <h5 style={{ textAlign: "center", padding: "20px" }}>
