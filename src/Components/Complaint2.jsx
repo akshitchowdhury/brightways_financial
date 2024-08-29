@@ -66,7 +66,7 @@ const Complaint2 = () => {
         </tbody>
       </Table>
 
-      <div className="text-center my-4">
+      {/* <div className="text-center my-4">
         <h5>Data For the Month ending: JUNE, 2024</h5>
       </div>
 
@@ -125,7 +125,7 @@ const Complaint2 = () => {
             <td>0</td>
           </tr>
         </tbody>
-      </Table>
+      </Table> */}
 
       <div className="container mt-3">
         <h5 className="text-center mb-4">Trend of Monthly disposal of complaints :</h5>
