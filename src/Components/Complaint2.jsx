@@ -6,7 +6,7 @@ const Complaint2 = () => {
   return (
     <div className="container mt-5">
       <div className="text-center mb-4">
-        <h5>Data For the Month ending: JULY, 2024</h5>
+        <h5>Data For the Month ending: AUGUST, 2024</h5>
       </div>
 
       <Table striped bordered hover responsive="sm">
@@ -38,10 +38,10 @@ const Complaint2 = () => {
             <td>SEBI (SCORES)</td>
             <td>0</td>
             <td>1</td>
+            <td>-</td>
             <td>1</td>
             <td>0</td>
-            <td>0</td>
-            <td>15</td>
+            <td>-</td>
           </tr>
           <tr>
             <td>3</td>
@@ -58,8 +58,8 @@ const Complaint2 = () => {
             <td>Grand Total</td>
             <td>0</td>
             <td>1</td>
+            <td>-</td>
             <td>1</td>
-            <td>0</td>
             <td>0</td>
             <td>0</td>
           </tr>
@@ -144,6 +144,14 @@ const Complaint2 = () => {
             <tbody className="text-center">
               <tr>
                 <td>1</td>
+                <td>August, 2024</td>
+                <td>0</td>
+                <td>1</td>
+                <td>-</td>
+                <td>1</td>
+              </tr>
+              <tr>
+                <td>2</td>
                 <td>July, 2024</td>
                 <td>0</td>
                 <td>1</td>
@@ -151,16 +159,8 @@ const Complaint2 = () => {
                 <td>0</td>
               </tr>
               <tr>
-                <td>2</td>
-                <td>June, 2024</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>0</td>
-              </tr>
-              <tr>
                 <td>3</td>
-                <td>MAY, 2024</td>
+                <td>June, 2024</td>
                 <td>0</td>
                 <td>0</td>
                 <td>0</td>
@@ -170,9 +170,9 @@ const Complaint2 = () => {
                 <td></td>
                 <td>Grand Total</td>
                 <td>0</td>
+                <td>2</td>
                 <td>1</td>
                 <td>1</td>
-                <td>0</td>
               </tr>
             </tbody>
           </Table>
