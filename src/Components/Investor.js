@@ -193,7 +193,7 @@ function Investor() {
           </div>
           <div>
             <p style={{ color: "black", fontSize: "12px", marginTop: "14px" }}>
-              If not satisfied with the response of the Research Analyst: ANITHA M PROPRIETOR OF BRIGHTWAYS FINANCIAL SERVICES: INH000010566. 
+              The Research Analyst: ANITHA M PROPRIETOR OF BRIGHTWAYS FINANCIAL SERVICES: INH000010566. 
               You can lodge your grievances / COMPLAINT at 
               <a href="Support@brightwaysfinancial.com" style={{marginLeft:"2px"}}>Support@brightwaysfinancial.com </a>with SEBI at <a href="https://scores.sebi.gov.in/" style={{marginLeft:"2px"}}>https://scores.sebi.gov.in/</a> SEBI ODR :
               <a href="https://scores.sebi.gov.in/" style={{marginLeft:"2px"}}>https://smartodr.in/</a>  or you may also write to any of the offices of SEBI.
