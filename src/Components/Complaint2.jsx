@@ -94,8 +94,8 @@ const Complaint2 = () => {
                 <td>August, 2024</td>
                 <td>0</td>
                 <td>1</td>
-                <td>1</td>
                 <td>0</td>
+                <td>1</td>
               </tr>
               <tr>
                 <td>3</td>
