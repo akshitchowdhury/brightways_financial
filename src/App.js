@@ -64,7 +64,7 @@ function App() {
             path="/complaint"
             element={
               <>
-                <Header />
+                <Header/>
                 <Complaint2/>
                 <Footer />
               </>
