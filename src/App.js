@@ -52,7 +52,7 @@ function App() {
           />
           <Route
             path="/investor"
-            element={
+            element={ 
               <>
                 <Header />
                 <Investor />
