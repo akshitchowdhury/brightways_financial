@@ -6,7 +6,7 @@ const Complaint = () => {
   return (
     <div className="container mt-5">
       <div className="text-center mb-4">
-        <h5>Data For the Month ending: AUGUST, 2024</h5>
+        <h5>Data For the Month ending: August, 2024</h5>
       </div>
 
       <Table striped bordered hover responsive="sm">
