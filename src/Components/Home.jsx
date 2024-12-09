@@ -51,7 +51,7 @@ function Home() {
                       <h2>
                         <span>SEBI Registered </span>
                         <em>
-                          <b>Research Analystt </b>
+                          <b>Research Analyst </b>
                         </em>
                       </h2>
                     </div>
