@@ -36,10 +36,10 @@ const Complaint2 = () => {
           <tr>
             <td>2</td>
             <td>SEBI (SCORES)</td>
-            <td>2</td>
             <td>0</td>
             <td>0</td>
-            <td>2</td>
+            <td>0</td>
+            <td>0</td>
             <td>0</td>
             <td>0</td>
           </tr>
@@ -56,10 +56,10 @@ const Complaint2 = () => {
           <tr>
             <td></td>
             <td>Grand Total</td>
-            <td>2</td>
             <td>0</td>
             <td>0</td>
-            <td>2</td>
+            <td>0</td>
+            <td>0</td>
             <td>0</td>
             <td>0</td>
           </tr>
@@ -83,6 +83,14 @@ const Complaint2 = () => {
             <tbody className="text-center">
               <tr>
                 <td>1</td>
+                <td>November, 2024</td>
+                <td>2</td>
+                <td>0</td>
+                <td>2</td>
+                <td>0</td>
+              </tr>
+              <tr>
+                <td>1</td>
                 <td>October, 2024</td>
                 <td>2</td>
                 <td>0</td>
@@ -97,29 +105,15 @@ const Complaint2 = () => {
                 <td>0</td>
                 <td>2</td>
               </tr>
-              <tr>
-                <td>2</td>
-                <td>August, 2024</td>
-                <td>0</td>
-                <td>2</td>
-                <td>0</td>
-                <td>2</td>
-              </tr>
-              <tr>
-                <td>3</td>
-                <td>July, 2024</td>
-                <td>0</td>
-                <td>1</td>
-                <td>1</td>
-                <td>0</td>
-              </tr>
+              
+              
               <tr>
                 <td></td>
                 <td>Grand Total</td>
                 <td>2</td>
-                <td>2</td>
                 <td>0</td>
                 <td>2</td>
+                <td>0</td>
               </tr>
             </tbody>
           </Table>
@@ -143,19 +137,27 @@ const Complaint2 = () => {
             <tbody className="text-center">
               <tr>
                 <td>1</td>
+                <td>2023-24</td>
+                <td>0</td>
+                <td>0</td>
+                <td>0</td>
+                <td>0</td>
+              </tr>
+              <tr>
+                <td>1</td>
                 <td>2024-25</td>
                 <td>0</td>
-                <td>5</td>
-                <td>3</td>
-                <td>2</td>
+                <td>4</td>
+                <td>4</td>
+                <td>0</td>
               </tr>
               <tr>
                 <td></td>
                 <td>Grand Total</td>
                 <td>0</td>
-                <td>5</td>
-                <td>3</td>
-                <td>2</td>
+                <td>4</td>
+                <td>4</td>
+                <td>0</td>
               </tr>
             </tbody>
           </Table>
