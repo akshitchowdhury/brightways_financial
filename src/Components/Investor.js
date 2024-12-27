@@ -68,7 +68,35 @@ export default function Investor() {
             </div>
           }
         />
-        
+
+
+          <AccordionItem
+          title="INVESTORs have RIGHT to :"
+          content={
+            <ul>
+              <li>Get fair and equitable treatment.</li>
+              <li>Expect redressal of investor grievances filed in SCORES in a time bound manner.</li>
+              <li>Get quality services from SEBI recognized Market Infrastructure Institutions and SEBI registered
+                  intermediaries/regulated entities/ Asset Management Companies including right to exit at fair and reasonable terms from the securities market related product or service and avail Online Dispute Resolution mechanism for the disputes, if any, arising therefrom.
+               </li>
+            </ul>
+          }
+        />
+
+
+           <AccordionItem
+          title="INVESTORS have RESPONSIBILITY to :"
+          content={
+            <ul>
+              <li>Deal with SEBI recognised Market Infrastructure Institutions and SEBI registered intermediaries / regulated entities only.</li>
+              <li>Update their contact details like address, mobile number, email address, nomination, etc. and other key KYC details in case of any change.</li>
+              <li>Ensure that grievances are taken up with the concerned entities within time limits prescribed.</li>
+              <li>Ensure that their accounts are operated only for their own benefit.</li>
+            </ul>
+          }
+        />
+
+          
         <AccordionItem
           title="B. Details of business transacted by the Research Analyst to the investors"
           content={
@@ -133,6 +161,48 @@ export default function Investor() {
             </ul>
           }
         />
+
+
+           <AccordionItem
+          title="DO's for Investors :"
+          content={
+            <ul>
+              <li>Always deal with SEBI-registered Research Analysts.</li>
+              <li>Ensure that the Research Analyst has a valid registration certificate.</li>
+              <li>Check for the SEBI registration number.</li>
+              <li>Please refer to the list of all SEBI registered Research Analysts which is available on the SEBI website at the following link: https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=14 </li>
+              <li>Always pay attention towards disclosures made in the research reports before investing. </li>
+              <li>Pay your Research Analyst through banking channels only and maintain duly signed receipts mentioning the details of your payments.</li>
+              <li>Before buying securities or applying for a public offer, check for the research recommendation provided by your research Analyst.</li>
+              <li>Ask all relevant questions and clear your doubts with your Research Analyst before acting on the recommendation.</li>
+              <li>Inform SEBI about Research Analyst offering assured or guaranteed returns.</li>
+              <li>Read and understand the documents carefully before investing.</li>
+              <li>Know about the Investor Grievance Redressal Mechanism.</li>
+              <li>Know the risks involved before investing.</li>
+              <li>Keep track of account statements and promptly bring any discrepancy noticed to the concerned stock exchange, intermediary or Asset Management Company.</li>
+              <li>Know about various fees, charges, margins, premium, etc. involved in the transactions.</li>
+              <li>Preserve relevant transaction related documents.</li>
+            </ul>
+          }
+        />
+
+
+          <AccordionItem
+          title="DONT's for Investors:"
+          content={
+            <ul>
+              <li>Always deal with SEBI-registered Research Analysts.</li>
+              <li>Do not provide funds for investment to the Research Analyst.</li>
+              <li>Don’t fall prey to luring advertisements or market rumours.</li>
+              <li>Do not get attracted to limited-period discounts or other incentives, gifts, etc. offered by the Research Analyst.</li>
+              <li>Do not share login credentials and passwords of your trading and demat accounts with the Research Analyst.</li>
+              <li>Don't make payments in cash while making any investment in securities market, beyond the prescribed limit.</li>
+              <li>Don't share your critical information like account details, login ids, passwords, DIS, etc. with anyone.</li
+            </ul>
+          }
+        />
+
+          
 
         <AccordionItem
           title="E. Expectations from the investors (Responsibilities of investors)"
