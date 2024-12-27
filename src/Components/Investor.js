@@ -71,7 +71,7 @@ export default function Investor() {
 
 
           <AccordionItem
-          title="INVESTORs have RIGHT to :"
+          title="B. INVESTORs have RIGHT to :"
           content={
             <ul>
               <li>Get fair and equitable treatment.</li>
@@ -85,7 +85,7 @@ export default function Investor() {
 
 
            <AccordionItem
-          title="INVESTORS have RESPONSIBILITY to :"
+          title="C. INVESTORS have RESPONSIBILITY to :"
           content={
             <ul>
               <li>Deal with SEBI recognised Market Infrastructure Institutions and SEBI registered intermediaries / regulated entities only.</li>
@@ -98,7 +98,7 @@ export default function Investor() {
 
           
         <AccordionItem
-          title="B. Details of business transacted by the Research Analyst to the investors"
+          title="D. Details of business transacted by the Research Analyst to the investors"
           content={
             <ul>
               <li>To publish a research report based on the research activities of the RA.</li>
@@ -111,7 +111,7 @@ export default function Investor() {
         />
 
         <AccordionItem
-          title="C. Details of services provided to investors (No Indicative Timelines)"
+          title="E. Details of services provided to investors (No Indicative Timelines)"
           content={
             <ul>
               <li>Onboarding of Clients</li>
@@ -133,7 +133,7 @@ export default function Investor() {
         />
 
         <AccordionItem
-          title="D. Details of grievance redressal mechanism and how to access it"
+          title="F. Details of grievance redressal mechanism and how to access it"
           content={
             <ul>
               <li>
@@ -164,7 +164,7 @@ export default function Investor() {
 
 
            <AccordionItem
-          title="DO's for Investors :"
+          title="G. DO's for Investors :"
           content={
             <ul>
               <li>Always deal with SEBI-registered Research Analysts.</li>
@@ -188,7 +188,7 @@ export default function Investor() {
 
 
           <AccordionItem
-          title="DONT's for Investors:"
+          title="H. DONT's for Investors:"
           content={
             <ul>
               <li>Always deal with SEBI-registered Research Analysts.</li>
@@ -205,7 +205,7 @@ export default function Investor() {
           
 
         <AccordionItem
-          title="E. Expectations from the investors (Responsibilities of investors)"
+          title="I. Expectations from the investors (Responsibilities of investors)"
           content={
             <>
               <h3>Do's</h3>
@@ -255,7 +255,7 @@ export default function Investor() {
           }         
         />
         <AccordionItem
-          title="F. The Research analysis query"
+          title="J. The Research analysis query"
           content={
             <>
               
