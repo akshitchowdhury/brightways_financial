@@ -281,9 +281,8 @@ export default function Investor() {
         />
 
           {/* Add all the other AccordionItem components here */}
-        <AccordionItem
-          title="Grievance Redressal/Escalation Matrix"
-          content={
+        
+            <h2>Grievance Redressal/Escalation Matrix</h2>
             <div>
               <h3>SEBI Registration Details</h3>
               <ul>
@@ -323,9 +322,6 @@ export default function Investor() {
               </ul>
               <p>Please note that our support team is unavailable on Saturdays, Sundays, and public holidays. However, if you wish to reach out to us, you can contact our customer support at <a href="https://www.brightwaysfinancial.com">https://www.brightwaysfinancial.com</a>.</p>
             </div>
-          }
-        />
-          
       </div>
 
           
