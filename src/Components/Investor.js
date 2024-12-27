@@ -202,10 +202,36 @@ export default function Investor() {
           }
         />
 
+
+          <AccordionItem
+          title="I. The Research analysis query"
+          content={
+            <>
+              
+              <ul>
+               
+               <p style={{ color: "black", fontSize: "12px", marginTop: "14px" }}>
+            The Research Analyst: ANITHA M PROPRIETOR OF BRIGHTWAYS FINANCIAL SERVICES: INH000010566. 
+            You can lodge your grievances / COMPLAINT at 
+            <a href="mailto:Support@brightwaysfinancial.com" style={{marginLeft:"2px"}}>Support@brightwaysfinancial.com </a>
+            with SEBI at <a href="https://scores.sebi.gov.in/" style={{marginLeft:"2px"}}>https://scores.sebi.gov.in/</a> SEBI ODR :
+            <a href="https://smartodr.in/" style={{marginLeft:"2px"}}>https://smartodr.in/</a> or you may also write to any of the offices of SEBI.
+          </p>
+          <p style={{ color: "black", fontSize: "12px", marginTop: "10px" }}>
+            For any queries, feedback, or assistance, please contact 6363360542, the SEBI Office on the Toll-Free Helpline at 1800 22 7575 
+          </p>
+               
+              </ul>
+              <div className="card-content">
+      
+        </div>
+            </>
+          }         
+        />
           
 
         <AccordionItem
-          title="I. Expectations from the investors (Responsibilities of investors)"
+          title="J. Expectations from the investors (Responsibilities of investors)"
           content={
             <>
               <h3>Do's</h3>
@@ -254,31 +280,7 @@ export default function Investor() {
             </>
           }         
         />
-        <AccordionItem
-          title="J. The Research analysis query"
-          content={
-            <>
-              
-              <ul>
-               
-               <p style={{ color: "black", fontSize: "12px", marginTop: "14px" }}>
-            The Research Analyst: ANITHA M PROPRIETOR OF BRIGHTWAYS FINANCIAL SERVICES: INH000010566. 
-            You can lodge your grievances / COMPLAINT at 
-            <a href="mailto:Support@brightwaysfinancial.com" style={{marginLeft:"2px"}}>Support@brightwaysfinancial.com </a>
-            with SEBI at <a href="https://scores.sebi.gov.in/" style={{marginLeft:"2px"}}>https://scores.sebi.gov.in/</a> SEBI ODR :
-            <a href="https://smartodr.in/" style={{marginLeft:"2px"}}>https://smartodr.in/</a> or you may also write to any of the offices of SEBI.
-          </p>
-          <p style={{ color: "black", fontSize: "12px", marginTop: "10px" }}>
-            For any queries, feedback, or assistance, please contact 6363360542, the SEBI Office on the Toll-Free Helpline at 1800 22 7575 
-          </p>
-               
-              </ul>
-              <div className="card-content">
-      
-        </div>
-            </>
-          }         
-        />
+
 
           {/* Add all the other AccordionItem components here */}
         
