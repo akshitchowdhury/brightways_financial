@@ -197,7 +197,7 @@ export default function Investor() {
               <li>Do not get attracted to limited-period discounts or other incentives, gifts, etc. offered by the Research Analyst.</li>
               <li>Do not share login credentials and passwords of your trading and demat accounts with the Research Analyst.</li>
               <li>Don't make payments in cash while making any investment in securities market, beyond the prescribed limit.</li>
-              <li>Don't share your critical information like account details, login ids, passwords, DIS, etc. with anyone.</li
+              <li>Don't share your critical information like account details, login ids, passwords, DIS, etc. with anyone.</li>
             </ul>
           }
         />
