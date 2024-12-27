@@ -34,17 +34,35 @@ export default function Investor() {
           title="A. Vision and Mission Statements for Investors"
           content={
             <div>
-              <h3>Vision</h3>
+              <h3>OUR VISION</h3>
               <ul>
-                <li>Invest in knowledge & safety</li>
+                <li>To protect the interests by enabling them to understand the risks involved and invest in fair, transparent, secure market, and to get services in a timely and efficient manner.</li>
               </ul>
-              <h3>Mission</h3>
+              <h3>OUR MISSION</h3>
               <ul>
                 <li>
-                  Every investor should be able to invest in the right
-                  investment products based on their needs, manage and monitor
-                  them to meet their goals, access reports and enjoy financial
-                  wellness.
+                  To have streamlined procedures to ensure ease of transacting/investing in securities market for investors.
+                </li>
+                <li>
+                  To ensure that SEBI registered intermediaries/regulated entities adhere to their investor charters, including grievance redressal mechanism.
+                </li>
+                <li>
+                  To enable investors to understand risks involved before investing.
+                </li>
+                <li>
+                  To ensure fair and equitable treatment to investors.
+                </li>
+                <li>
+                  To ensure confidentiality of information shared by investors unless such information is required to be provided in furtherance of discharging legal obligations or investors have provided specific consent to share such information.
+                </li>
+                <li>
+                  To analyse the causes of investor grievances on a periodic basis and make appropriate policy amendments if required.
+                </li>
+                <li>
+                  To provide for alternative dispute resolution mechanism in agreements between investors and Market Infrastructure Institutions/ Intermediaries.
+                </li>
+                <li>
+                  To encourage innovative and digital solutions in securities market.
                 </li>
               </ul>
             </div>
