@@ -57,12 +57,12 @@ const tableData = [
         <table className="table table-bordered">
           <thead>
             <tr className="text-center bg-danger text-white">
-              <th>Details of Designation</th>
-              <th>Contact Person Name</th>
-              <th>Address</th>
-              <th>Contact No.</th>
-              <th>Email ID</th>
-              <th>Working Hours</th>
+              <th className="text-danger">Details of Designation</th>
+              <th className="text-danger">Contact Person Name</th>
+              <th className="text-danger">Address</th>
+              <th className="text-danger">Contact No.</th>
+              <th className="text-danger">Email ID</th>
+              <th className="text-danger">Working Hours</th>
             </tr>
           </thead>
           <tbody>
