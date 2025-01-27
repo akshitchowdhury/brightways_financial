@@ -7,38 +7,78 @@ function Contact() {
         
 
 {/* Updated Code 27/1/2025 */}
-<div>
-<table class="table">
-  <thead>
-    <tr>
-      <th scope="col">#</th>
-      <th scope="col">First</th>
-      <th scope="col">Last</th>
-      <th scope="col">Handle</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th scope="row">1</th>
-      <td>Mark</td>
-      <td>Otto</td>
-      <td>@mdo</td>
-    </tr>
-    <tr>
-      <th scope="row">2</th>
-      <td>Jacob</td>
-      <td>Thornton</td>
-      <td>@fat</td>
-    </tr>
-    <tr>
-      <th scope="row">3</th>
-      <td>Larry</td>
-      <td>the Bird</td>
-      <td>@twitter</td>
-    </tr>
-  </tbody>
-</table>
-</div>
+ {/* Responsive Table Section */}
+        <div className="table-responsive mt-4">
+          <table className="table table-bordered">
+            <thead>
+              <tr className="text-center bg-danger text-white">
+                <th>Details of Designation</th>
+                <th>Contact Person Name</th>
+                <th>Address</th>
+                <th>Contact No.</th>
+                <th>Email ID</th>
+                <th>Working Hours</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Customer Care</td>
+                <td>Anitha M</td>
+                <td>
+                  No.188, 3rd Floor, Janardan Tower, Near Agara Outer Ring Road,
+                  Bangalore, Karnataka, 560102
+                </td>
+                <td>+91 6363 360542</td>
+                <td>support@brightwaysfinancial.com</td>
+                <td>From 10:00 AM to 5:00 PM (Holidays Off)</td>
+              </tr>
+              <tr>
+                <td>Head of Customer Care</td>
+                <td>Anitha M</td>
+                <td>
+                  No.188, 3rd Floor, Janardan Tower, Near Agara Outer Ring Road,
+                  Bangalore, Karnataka, 560102
+                </td>
+                <td>+91 6363 360542</td>
+                <td>support@brightwaysfinancial.com</td>
+                <td>From 10:00 AM to 5:00 PM (Holidays Off)</td>
+              </tr>
+              <tr>
+                <td>Compliance Officer</td>
+                <td>Anitha M</td>
+                <td>
+                  No.188, 3rd Floor, Janardan Tower, Near Agara Outer Ring Road,
+                  Bangalore, Karnataka, 560102
+                </td>
+                <td>+91 6363 360542</td>
+                <td>support@brightwaysfinancial.com</td>
+                <td>From 10:00 AM to 5:00 PM (Holidays Off)</td>
+              </tr>
+              <tr>
+                <td>CEO</td>
+                <td>Anitha M</td>
+                <td>
+                  No.188, 3rd Floor, Janardan Tower, Near Agara Outer Ring Road,
+                  Bangalore, Karnataka, 560102
+                </td>
+                <td>+91 6363 360542</td>
+                <td>support@brightwaysfinancial.com</td>
+                <td>From 10:00 AM to 5:00 PM (Holidays Off)</td>
+              </tr>
+              <tr>
+                <td>Principal Officer</td>
+                <td>Anitha M</td>
+                <td>
+                  No.188, 3rd Floor, Janardan Tower, Near Agara Outer Ring Road,
+                  Bangalore, Karnataka, 560102
+                </td>
+                <td>+91 6363 360542</td>
+                <td>support@brightwaysfinancial.com</td>
+                <td>From 10:00 AM to 5:00 PM (Holidays Off)</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
 
         <div className="row me-0">
           <div className="col-lg-6 col-md-6 p-0 ">
