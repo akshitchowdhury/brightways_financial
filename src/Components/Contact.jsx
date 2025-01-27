@@ -53,6 +53,7 @@ const tableData = [
 {/* Updated Code 27/1/2025 */}
  {/* Responsive Table Section */}
         <div className="container mt-4">
+            <h4>GRIEVANCE REDRESSAL / ESCALATION MATRIX</h4>
       <div className="table-responsive">
         <table className="table table-bordered">
           <thead>
@@ -80,6 +81,10 @@ const tableData = [
         </table>
       </div>
     </div>
+
+          <div className="row p-4 .bg-primary"> 
+            <h3>RA ANITHA M PROPERTIES OF BRIGHTWAYS FINANCIAL SERVICES: INH000010566</h3>
+          </div>
        
 
         <div className="row me-0">
