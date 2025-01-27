@@ -68,7 +68,7 @@ const tableData = [
           <tbody>
             {tableData.map((row, index) => (
               <tr key={index}>
-                <td>{row.designation}</td>
+                <td className="text-primary">{row.designation}</td>
                 <td>{row.name}</td>
                 <td>{row.address}</td>
                 <td>{row.contact}</td>
