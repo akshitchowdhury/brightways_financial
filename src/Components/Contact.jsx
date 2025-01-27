@@ -82,8 +82,8 @@ const tableData = [
       </div>
     </div>
 
-          <div className="row p-4 .bg-primary"> 
-            <h3>RA ANITHA M PROPERTIES OF BRIGHTWAYS FINANCIAL SERVICES: INH000010566</h3>
+          <div className="row p-4 bg-primary"> 
+            <h3 className="text-center">RA ANITHA M PROPERTIES OF BRIGHTWAYS FINANCIAL SERVICES: INH000010566</h3>
           </div>
        
 
