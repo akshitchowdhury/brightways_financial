@@ -83,7 +83,7 @@ const tableData = [
     </div>
 
           <div className="row p-4 bg-primary"> 
-            <h3 className="text-center">RA ANITHA M PROPERTIES OF BRIGHTWAYS FINANCIAL SERVICES: INH000010566</h3>
+            <h3 className="text-center text-white">RA ANITHA M PROPERTIES OF BRIGHTWAYS FINANCIAL SERVICES: INH000010566</h3>
           </div>
        
 
