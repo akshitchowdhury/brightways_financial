@@ -133,32 +133,177 @@ export default function Investor() {
         />
 
         <AccordionItem
-          title="F. Details of grievance redressal mechanism and how to access it"
+          title="F. Details of 4 grievance redressal mechanism and how to access it"
           content={
             <ul>
-              <li>
-                In case of any grievance/complaint, an investor should approach
-                the concerned research analyst and ensure the grievance is
-                resolved within 30 days.
-              </li>
-              <li>
-                If the investor's complaint is not redressed satisfactorily, one
-                may lodge a complaint with SEBI on SEBI's SCORES portal, a
-                centralised web-based complaint redressal system.
-              </li>
-              <li>
-                SEBI takes up the complaints registered via SCORES with the
-                concerned intermediary for timely redressal. SCORES facilitates
-                tracking the status of the complaint.
-              </li>
-              <li>
-                Regarding physical complaints, investors may send their
-                complaints to the Office of Investor Assistance and Education,
-                Securities and Exchange Board of India, SEBI Bhavan. Plot No.
-                C4-A, 'G' Block, Bandra-Kurla Complex, Bandra (E), Mumbai –
-                400 051.
-              </li>
-            </ul>
+        <li>
+          <strong>Grievance Redressal/Escalation Matrix:</strong>
+          <ul>
+            <li>
+              <strong>SEBI Registration Details:</strong>
+              <ul>
+                <li>
+                  Registered Name: "Anitha M Proprietor of Brightways Financial
+                  Services"
+                </li>
+                <li>
+                  Trade Name or Website:{" "}
+                  <a
+                    href="https://www.brightwaysfinancial.com"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    www.brightwaysfinancial.com
+                  </a>
+                </li>
+                <li>Type of Registration: Research Analyst</li>
+                <li>Registration Number: INH000010566</li>
+                <li>
+                  SEBI Research Analyst List Check:{" "}
+                  <a
+                    href="https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=14"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    Click here
+                  </a>
+                </li>
+                <li>Validity: Oct 31, 2022 – Perpetual</li>
+                <li>
+                  Registered Office Address: No.188 3rd Floor, Janardan Tower,
+                  Near Agara Outer Ring Road, BANGALORE, KARNATAKA, 560102
+                </li>
+                <li>
+                  Correspondence Office Address: No.188 3rd Floor, Janardan
+                  Tower, Near Agara Outer Ring Road, BANGALORE, KARNATAKA,
+                  560102
+                </li>
+              </ul>
+            </li>
+            <li>
+              <strong>Contact Details:</strong>
+              <ul>
+                <li>
+                  CEO: Anitha M <br />
+                  Phone: <a href="tel:+916363360542">+91 6363 360542</a> <br />
+                  Email:{" "}
+                  <a
+                    href="mailto:support@brightwaysfinancial.com"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    support@brightwaysfinancial.com
+                  </a>
+                </li>
+                <li>
+                  Compliance Officer: Anitha M <br />
+                  Phone: <a href="tel:+916363360542">+91 6363 360542</a> <br />
+                  Email:{" "}
+                  <a
+                    href="mailto:support@brightwaysfinancial.com"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    support@brightwaysfinancial.com
+                  </a>
+                </li>
+              </ul>
+            </li>
+            <li>
+              <strong>Working Hours:</strong>
+              <ul>
+                <li>Days: Monday to Friday</li>
+                <li>Time: 11:00 AM to 5:00 PM</li>
+                <li>
+                  Support is unavailable on Saturdays, Sundays, and public
+                  holidays.
+                </li>
+                <li>
+                  For assistance, contact:{" "}
+                  <a
+                    href="mailto:support@brightwaysfinancial.com"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    support@brightwaysfinancial.com
+                  </a>
+                </li>
+              </ul>
+            </li>
+            <li>
+              <strong>Escalation Channels:</strong>
+              <ul>
+                <li>
+                  SEBI SCORES:{" "}
+                  <a
+                    href="https://scores.sebi.gov.in/"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    Click here
+                  </a>
+                </li>
+                <li>
+                  SEBI ODR:{" "}
+                  <a
+                    href="https://smartodr.in/"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    Click here
+                  </a>
+                </li>
+                <li>SEBI Toll-Free: 1800 22 7575 or 1800 266 7575</li>
+                <li>
+                  SEBI Contact Addresses:{" "}
+                  <a
+                    href="https://www.sebi.gov.in/contact-us.html"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    Click here
+                  </a>
+                </li>
+              </ul>
+            </li>
+            <li>
+              <strong>Investor Awareness:</strong>
+              <ul>
+                <li>
+                  SEBI Investor Website:{" "}
+                  <a
+                    href="https://investor.sebi.gov.in/"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    Click here
+                  </a>
+                </li>
+                <li>
+                  Saarthi App (Android):{" "}
+                  <a
+                    href="https://play.google.com/store/apps/details?id=com.sebi.invapp"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    Download here
+                  </a>
+                </li>
+                <li>
+                  Saarthi App (iOS):{" "}
+                  <a
+                    href="https://apps.apple.com/in/app/saa%E2%82%B9thi/id1589426387"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    Download here
+                  </a>
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
           }
         />
 
