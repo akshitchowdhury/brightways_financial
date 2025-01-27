@@ -53,7 +53,7 @@ const tableData = [
 {/* Updated Code 27/1/2025 */}
  {/* Responsive Table Section */}
          <div className="p-3 row bg-danger mt-5">
-             <h1 className="text-white">NOTICE</h1>
+             <h1 className="text-white text-center">NOTICE</h1>
         </div>
         <div className="container mt-4">
             
