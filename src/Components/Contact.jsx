@@ -47,7 +47,7 @@ const tableData = [
 
   return (
     <>
-      <div className="contact_us mt-3">
+      <div className="contact_us mt-5">
         
 
 {/* Updated Code 27/1/2025 */}
