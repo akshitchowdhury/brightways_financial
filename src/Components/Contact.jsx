@@ -53,6 +53,9 @@ const tableData = [
 {/* Updated Code 27/1/2025 */}
  {/* Responsive Table Section */}
         <div className="container mt-4">
+            <div className="p-3">
+             <h1 className="bg-danger text-white">NOTICE</h1>
+            </div>
             <h4>GRIEVANCE REDRESSAL / ESCALATION MATRIX</h4>
       <div className="table-responsive">
         <table className="table table-bordered">
