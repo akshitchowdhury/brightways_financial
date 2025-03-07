@@ -6,7 +6,7 @@ const Complaint2 = () => {
   return (
     <div className="container mt-5">
       <div className="text-center mb-4">
-        <h5>Data For the Month ending: January, 2025</h5>
+        <h5>Data For the Month ending: February, 2025</h5>
       </div>
 
       <Table striped bordered hover responsive="sm">
@@ -84,6 +84,15 @@ const Complaint2 = () => {
 
               <tr>
                 <td>3</td>
+                <td>February, 2025</td>
+                <td>0</td>
+                <td>0</td>
+                <td>0</td>
+                <td>0</td>
+              </tr>
+
+              <tr>
+                <td>3</td>
                 <td>January, 2025</td>
                 <td>0</td>
                 <td>0</td>
@@ -99,14 +108,7 @@ const Complaint2 = () => {
                 <td>0</td>
                 <td>0</td>
               </tr>
-              <tr>
-                <td>2</td>
-                <td>November, 2024</td>
-                <td>2</td>
-                <td>0</td>
-                <td>2</td>
-                <td>0</td>
-              </tr>
+              
               
         
               <tr>
